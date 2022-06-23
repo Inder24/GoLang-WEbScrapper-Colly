@@ -1,4 +1,4 @@
-package GoLang_WEbScrapper_Colly
+package main
 
 import (
 	"fmt"

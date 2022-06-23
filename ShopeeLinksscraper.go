@@ -3,12 +3,11 @@ package main
 import (
 	"fmt"
 	"github.com/gocolly/colly"
-	"go-WebScraper/GoLang-WEbScrapper-Colly"
 )
 
 func main() {
-	//ShopeeExample()
-	GoLang_WEbScrapper_Colly.CryptoExample()
+	ShopeeExample()
+	CryptoExample()
 }
 
 func ShopeeExample() {
